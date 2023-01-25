@@ -42,7 +42,7 @@ export default function Hero() {
                   <div className="carousel-item">
                     <img src="https://source.unsplash.com/1920x900/?library." className="d-block w-100" alt="Library" />
                     <div className="carousel-caption d-none d-md-block">
-                      <h5>The Library View</h5>
+                      <h5>The Library</h5>
                       <p>Some representative placeholder content for the second slide.</p>
                     </div>
                   </div>
